@@ -1,2 +1,0 @@
-# VintyCafe
-Website Vinty Cafe
